@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>C:\Users\shrey\Desktop\BCA\Project\5th sem\OCR\Optical Character Recognition With Python and Tesseract\test images\news-1.png</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract v5.2.0.20220712</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1178" HEIGHT="511" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1178" HEIGHT="511">
+				<GraphicalElement ID="cblock_0" HPOS="257" VPOS="66" WIDTH="2" HEIGHT="89"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="27" VPOS="170" WIDTH="1100" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="61" VPOS="168" WIDTH="1066" HEIGHT="5"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="61" VPOS="169" WIDTH="1066" HEIGHT="6"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="61" VPOS="170" WIDTH="1066" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_5" HPOS="61" VPOS="170" WIDTH="1066" HEIGHT="5"></GraphicalElement >
+				<GraphicalElement ID="cblock_6" HPOS="61" VPOS="170" WIDTH="1066" HEIGHT="5"></GraphicalElement >
+				<GraphicalElement ID="cblock_7" HPOS="61" VPOS="170" WIDTH="1066" HEIGHT="5"></GraphicalElement >
+				<GraphicalElement ID="cblock_8" HPOS="29" VPOS="196" WIDTH="1100" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_9" HPOS="120" VPOS="198" WIDTH="1009" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_10" HPOS="120" VPOS="198" WIDTH="1009" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_11" HPOS="120" VPOS="199" WIDTH="1009" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_12" HPOS="120" VPOS="200" WIDTH="1009" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_13" HPOS="120" VPOS="200" WIDTH="1009" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_14" HPOS="26" VPOS="160" WIDTH="1102" HEIGHT="140">
+					<TextBlock ID="block_0" HPOS="26" VPOS="160" WIDTH="1103" HEIGHT="140">
+						<TextLine ID="line_0" HPOS="26" VPOS="160" WIDTH="1102" HEIGHT="140">
+							<String ID="string_0" HPOS="26" VPOS="183" WIDTH="269" HEIGHT="115" WC="0.96" CONTENT="TITANIC"/><SP WIDTH="22" VPOS="183" HPOS="295"/>
+							<String ID="string_1" HPOS="317" VPOS="160" WIDTH="327" HEIGHT="139" WC="0.90" CONTENT="SINKING;"/><SP WIDTH="-23" VPOS="160" HPOS="644"/>
+							<String ID="string_2" HPOS="621" VPOS="177" WIDTH="125" HEIGHT="123" WC="0.70" CONTENT="NO"/><SP WIDTH="6" VPOS="177" HPOS="746"/>
+							<String ID="string_3" HPOS="752" VPOS="177" WIDTH="193" HEIGHT="123" WC="0.96" CONTENT="LIVES"/><SP WIDTH="8" VPOS="177" HPOS="945"/>
+							<String ID="string_4" HPOS="953" VPOS="176" WIDTH="175" HEIGHT="92" WC="0.94" CONTENT="LOST"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_15" HPOS="25" VPOS="276" WIDTH="1088" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_16" HPOS="70" VPOS="276" WIDTH="1043" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_17" HPOS="70" VPOS="278" WIDTH="1043" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_18" HPOS="70" VPOS="278" WIDTH="1043" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_19" HPOS="70" VPOS="279" WIDTH="1043" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_20" HPOS="70" VPOS="279" WIDTH="1043" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_21" HPOS="59" VPOS="305" WIDTH="430" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_22" HPOS="26" VPOS="288" WIDTH="1105" HEIGHT="130">
+					<TextBlock ID="block_1" HPOS="26" VPOS="288" WIDTH="1105" HEIGHT="129">
+						<TextLine ID="line_1" HPOS="26" VPOS="288" WIDTH="1087" HEIGHT="115">
+							<String ID="string_5" HPOS="26" VPOS="288" WIDTH="125" HEIGHT="65" WC="0.73" CONTENT="PASSENGERS"/><SP WIDTH="0" VPOS="288" HPOS="151"/>
+							<String ID="string_6" HPOS="151" VPOS="289" WIDTH="146" HEIGHT="102" WC="0.28" CONTENT="NE"/><SP WIDTH="-1" VPOS="289" HPOS="297"/>
+							<String ID="string_7" HPOS="296" VPOS="290" WIDTH="28" HEIGHT="113" WC="0.0" CONTENT=";"/><SP WIDTH="-8" VPOS="290" HPOS="324"/>
+							<String ID="string_8" HPOS="316" VPOS="290" WIDTH="97" HEIGHT="63" WC="0.32" CONTENT="rw"/><SP WIDTH="98" VPOS="290" HPOS="413"/>
+							<String ID="string_9" HPOS="511" VPOS="291" WIDTH="369" HEIGHT="76" WC="0.0" CONTENT="SSC|SSSt*~«SS*«S"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="34" VPOS="361" WIDTH="1097" HEIGHT="57">
+							<String ID="string_10" HPOS="34" VPOS="372" WIDTH="5" HEIGHT="4" WC="0.42" CONTENT="4"/><SP WIDTH="936" VPOS="372" HPOS="39"/>
+							<String ID="string_11" HPOS="975" VPOS="365" WIDTH="25" HEIGHT="51" WC="0.34" CONTENT="x"/><SP WIDTH="53" VPOS="365" HPOS="1000"/>
+							<String ID="string_12" HPOS="1053" VPOS="361" WIDTH="78" HEIGHT="57" WC="0.25" CONTENT="ni"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_23" HPOS="511" VPOS="310" WIDTH="450" HEIGHT="3"></GraphicalElement >
+				<Illustration ID="cblock_24" HPOS="0" VPOS="0" WIDTH="1178" HEIGHT="511"></Illustration>
+				<GraphicalElement ID="cblock_25" HPOS="643" VPOS="496" WIDTH="324" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
